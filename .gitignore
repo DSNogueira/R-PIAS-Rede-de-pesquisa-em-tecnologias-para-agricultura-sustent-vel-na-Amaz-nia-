@@ -1,0 +1,56 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+*.Rcheck/
+.Rproj.user
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data files (large files — use Git LFS or external storage)
+*.rds
+*.RData
+# Uncomment the lines below if you want to exclude large CSV/Excel files:
+# dados/brutos/*.csv
+# dados/brutos/*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Compiled documents
+*.pdf
+# Uncomment if you don't want to track generated PDFs:
+# relatorios/**/*.pdf
