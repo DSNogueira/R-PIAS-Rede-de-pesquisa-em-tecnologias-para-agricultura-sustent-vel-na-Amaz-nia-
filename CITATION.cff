@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Se você utilizar este material, por favor cite conforme abaixo."
+title: "R'PIAS-MT — Rede de Pesquisa em Tecnologias para Agricultura Sustentável na Amazônia"
+type: software
+authors:
+  - family-names: "Nogueira"
+    given-names: "Denis Silva"
+    orcid: "https://orcid.org/0000-0001-8893-7903"
+    affiliation: "IFMT — Instituto Federal de Mato Grosso"
+    email: "denis.nogueira@ifmt.edu.br"
+repository-code: "https://github.com/DSNogueira/R-PIAS-Rede-Pesquisa-Tecnologias-Agricultura-Sustentavel-Amazonia"
+url: "https://piasmtportal-slerqtug.manus.space/"
+license: "CC-BY-NC-ND-4.0"
+date-released: "2024-01-01"
+keywords:
+  - "agricultura sustentável"
+  - "Amazônia"
+  - "Mato Grosso"
+  - "agroecossistemas"
+  - "PIAS-MT"
+  - "R'PIAS-MT"
+  - "Pró-Amazônia"
+  - "FINEP"
+  - "IoT"
+  - "LoRa"
+  - "sensoriamento remoto"
+abstract: >-
+  Rede de Pesquisa em Tecnologias para Agricultura Sustentável na Amazônia
+  (R'PIAS-MT) e Plataforma Integrada de Agroecossistemas Sustentáveis (PIAS-MT).
+  Projeto financiado pelo programa Pró-Amazônia/FINEP, coordenado pelo IFMT,
+  com participação de UFMT, UNEMAT, EMBRAPA e UTPL (Equador).
